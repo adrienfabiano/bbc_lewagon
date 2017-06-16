@@ -52,12 +52,22 @@ p{
 	font-size: 20px;
 }
 
+.social a:visited {
+	text-decoration: none;
+	color: black;
+}
+
 .social a:hover{
 	text-decoration: none;
 	color: #32adea;
 }
 
 .wagon a {
+	color: #d23333;
+	text-decoration: none;
+}
+
+.wagon a:visited {
 	color: #d23333;
 	text-decoration: none;
 }
